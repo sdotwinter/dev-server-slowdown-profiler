@@ -1,0 +1,30 @@
+{
+  "label": "review-before",
+  "samples": [
+    {
+      "run": 1,
+      "startup_ms": 2800,
+      "reload_ms": 1176
+    },
+    {
+      "run": 2,
+      "startup_ms": 2937,
+      "reload_ms": 1233
+    },
+    {
+      "run": 3,
+      "startup_ms": 3074,
+      "reload_ms": 1291
+    },
+    {
+      "run": 4,
+      "startup_ms": 3211,
+      "reload_ms": 1348
+    },
+    {
+      "run": 5,
+      "startup_ms": 3348,
+      "reload_ms": 1406
+    }
+  ]
+}
